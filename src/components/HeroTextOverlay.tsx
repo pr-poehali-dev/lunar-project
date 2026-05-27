@@ -10,12 +10,14 @@ export default function HeroTextOverlay() {
           paintOrder: "stroke fill",
         }}
       >
-        МАКС
+        НЕЙРО
+        <br />
+        БИОНИКА
       </h1>
       <p className="text-foreground font-mono text-sm md:text-base max-w-xs tracking-widest lg:text-base">
-        Ваш надежный гид
+        Как природа вдохновляет
         <br />
-        в мире баз данных
+        технологии будущего
       </p>
     </div>
   )
